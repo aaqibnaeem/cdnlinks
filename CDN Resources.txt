@@ -2,6 +2,14 @@
 <script src="https://kit.fontawesome.com/b4740d08d9.js" crossorigin="anonymous"></script>
 
 
+<!--AOS-->
+CSS
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+JS
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 
 
 <!--BootStrap 5 CSS CDN Link-->
